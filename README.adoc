@@ -1,2 +1,15 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+[WARNING]
+====
+**This repo is no longer active. See https://github.com/veupathdb/web-monorepo for the latest.**
+====
+
 = web-http-utils
 A collection of utilities for making http(s) requests in a web client
